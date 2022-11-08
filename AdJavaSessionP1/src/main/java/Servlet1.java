@@ -39,6 +39,13 @@ public class Servlet1 extends HttpServlet {
 			RequestDispatcher rd=req.getRequestDispatcher("Servlet3");
 			rd.forward(req, resp);
 		}
+		else if(u1.equals("admin@123"))
+		{
+			out.println("<form action='Servlet4' method='get'>");
+			out.println("<input type='hidden' name='s1' value='"+u1+"'/>");
+			out.println("<input type='submit' value='ClickHere'/>");
+			out.println("</form>");
+		}
 	}
 
 }
