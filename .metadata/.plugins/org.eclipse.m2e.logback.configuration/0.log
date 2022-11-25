@@ -67,3 +67,7 @@
 2022-11-19 21:07:07,752 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ConveyLabOnline\AdvanceJavaB15\HibernateMaven\src\test\resources
 2022-11-22 20:24:14,138 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2022-11-22 20:24:18,477 [Worker-1: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2022-11-24 20:31:57,219 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-24 20:32:40,965 [Worker-1: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2022-11-25 20:42:37,805 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-25 20:42:50,199 [Worker-2: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
