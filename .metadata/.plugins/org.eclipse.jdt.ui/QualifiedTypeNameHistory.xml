@@ -31,4 +31,7 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="str.Product"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
 </qualifiedTypeNameHistroy>
