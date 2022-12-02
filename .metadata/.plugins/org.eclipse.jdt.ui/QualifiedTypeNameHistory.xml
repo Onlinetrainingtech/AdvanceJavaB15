@@ -34,7 +34,8 @@
     <fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="SetterInject.FootballPlayer"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.xyz.TextEditor"/>
 </qualifiedTypeNameHistroy>
